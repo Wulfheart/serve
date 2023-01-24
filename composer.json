@@ -1,5 +1,5 @@
 {
-    "name": "flagrow/serve",
+    "name": "wulfheart/serve",
     "description": "Start Flarum in the PHP developement server",
     "keywords": [
         "extension",
@@ -22,8 +22,6 @@
         "source": "https://github.com/flagrow/serve"
     },
     "require": {
-        "flarum/core": "^0.1.0-beta.6",
-        "flagrow/console": "^0.1.0"
     },
     "extra": {
         "flarum-extension": {
